@@ -4,6 +4,8 @@ export interface IPhotosSorties {
   nomfichier: string
   commentaire: string
 }
+
+type IPhotosSortiesWithoutFK = Omit<IPhotosSorties, 'FK_sortie'>
 export interface ISortie {
   id: number
   nom: string
@@ -23,4 +25,20 @@ export interface ISortie {
   FK_crea_parqui: number
   date_modif: string
   FK_modif_parqui: number
+}
+
+export interface ISortieConcatenated {
+  id: number
+  nom: string
+  datedu: string
+  dateau: string
+  description: string
+  deniv: number
+  nbpart: number
+  lienhttp: string
+  auteurs: string
+  date_crea: string
+  typesortie: string
+  difficulte: string
+  photosSortie: IPhotosSortiesWithoutFK[]
 }
