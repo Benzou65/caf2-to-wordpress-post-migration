@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@fastify/mysql": "^4.0.0",
-    "axios": "^1.1.3",
+    "axios": "^1.6.0",
     "dayjs": "^1.11.6",
     "dotenv": "^16.0.3",
     "fastify": "^4.9.2",
