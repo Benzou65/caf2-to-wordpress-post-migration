@@ -1254,9 +1254,9 @@ flatted@^3.1.0:
   integrity sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==
 
 follow-redirects@^1.15.0:
-  version "1.15.2"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.2.tgz#b460864144ba63f2681096f274c4e57026da2c13"
-  integrity sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==
+  version "1.15.4"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.4.tgz#cdc7d308bf6493126b17ea2191ea0ccf3e535adf"
+  integrity sha512-Cr4D/5wlrb0z9dgERpUL3LrmPKVDsETIJhaCMeDfuFYcqa5bldGV6wBsAN6X/vxlXQtFBMrXdXxdL8CbDTGniw==
 
 form-data@^4.0.0:
   version "4.0.0"
@@ -1454,10 +1454,10 @@ human-signals@^2.1.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-2.1.0.tgz#dc91fcba42e4d06e4abaed33b3e7a3c02f514ea0"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-husky@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-8.0.2.tgz#5816a60db02650f1f22c8b69b928fd6bcd77a236"
-  integrity sha512-Tkv80jtvbnkK3mYWxPZePGFpQ/tT3HNSs/sasF9P2YfkMezDl3ON37YN6jUUI4eTg5LcyVynlb6r4eyvOmspvg==
+husky@^8.0.0:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-8.0.3.tgz#4936d7212e46d1dea28fef29bb3a108872cd9184"
+  integrity sha512-+dQSyqPh4x1hlO1swXBiNb2HzTDN1I2IGLQx1GrBuiqFJfoMrnZWwVmatvSiO+Iz8fBUnf+lekwNo4c2LlXItg==
 
 iconv-lite@^0.6.3:
   version "0.6.3"
